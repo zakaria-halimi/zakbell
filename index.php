@@ -18,6 +18,9 @@
 <?php include 'les sections/ecologie.php'; ?>
 <?php include 'les sections/footer.php'; ?>
 
+ 
+
+
 
 <script src="script.js"></script>
 </body>
